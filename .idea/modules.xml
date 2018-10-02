@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/baseCypress.iml" filepath="$PROJECT_DIR$/.idea/baseCypress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FR_AUTO_TEST02.iml" filepath="$PROJECT_DIR$/.idea/FR_AUTO_TEST02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_Proyect/Test_Proyect.iml" filepath="$PROJECT_DIR$/Test_Proyect/Test_Proyect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_Proyect/cypress.iml" filepath="$PROJECT_DIR$/Test_Proyect/cypress.iml" />
     </modules>
   </component>
 </project>
