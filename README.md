@@ -16,3 +16,4 @@ For Cucumber integration I use npm package cypress-cucumber-preprocessor](https:
         }
         ```
         # Integration : where cucumber read the test .In this case we include the cucumber features for cucumber execute them
+        # Support : where we include the page objets,steps and customize command(https://docs.cypress.io/api/cypress-api/custom-commands.html#Syntax) de Cypress. )
